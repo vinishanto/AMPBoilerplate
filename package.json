@@ -3,6 +3,7 @@
     "displayName": "HTMLAMP",
     "description": "Boilerplate from AMP HTML",
     "version": "0.0.1",
+    "publisher": "Anto Vinish",
     "engines": {
         "vscode": "^1.31.0"
     },
@@ -10,11 +11,9 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/snippets.json"
-            }
-        ]
+        "snippets": [{
+            "language": "html",
+            "path": "./snippets/snippets.json"
+        }]
     }
 }

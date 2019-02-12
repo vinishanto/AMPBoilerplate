@@ -1,8 +1,6 @@
 {
-    //Boilerplate for AMP HTML creation
     "AMP Boilerplate": {
-        "prefix": "html:ampsnippet", //Snippet name.
-        //Boilerplate content with cursor controls.
+        "prefix": "html:amp",
         "body": [
             "<!doctype html>",
             "<html amp lang=\"en\">",
