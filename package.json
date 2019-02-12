@@ -3,7 +3,8 @@
     "displayName": "HTMLAMP",
     "description": "Boilerplate from AMP HTML",
     "version": "0.0.1",
-    "publisher": "Anto Vinish",
+    "publisher": "vinishanto",
+    "repository": "https://github.com/vinishanto/AMPBoilerplate.git",
     "engines": {
         "vscode": "^1.31.0"
     },
